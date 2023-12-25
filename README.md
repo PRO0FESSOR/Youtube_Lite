@@ -1,3 +1,10 @@
+
+![Screenshot from 2023-12-21 15-53-19](https://github.com/PRO0FESSOR/Youtube_Lite/assets/107978433/1c78c72c-2f07-42cb-998e-29598d954cc8)
+
+![Screenshot from 2023-12-21 15-54-04](https://github.com/PRO0FESSOR/Youtube_Lite/assets/107978433/8246800d-13d6-4979-8da0-2aaeb28cfa21)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
